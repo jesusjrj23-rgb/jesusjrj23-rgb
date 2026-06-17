@@ -12,22 +12,22 @@ Egresado de la **Licenciatura en Ciencias de la Computación (BUAP)** con el 100
 ---
 
 #### 🐍 Backend & Scraping (Python)
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-* **Web Scraping:** Extracción de datos automatizada con **BeautifulSoup**.
-* **Procesamiento de Archivos:** Extracción y lectura de datos desde documentos PDF con **pdfplumber**.
+* 🔹 **Python 3** (Especializado en automatización)
+* 🔹 **NumPy** & **Pandas** (Procesamiento de datos)
+* 🔹 **BeautifulSoup** (Web Scraping / Extracción web)
+* 🔹 **pdfplumber** (Extracción y lectura de datos desde documentos PDF)
 
 #### 🌐 Desarrollo Web (Frontend & Backend)
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* 🔹 **HTML5** & **CSS3** (Estructura y diseño web)
+* 🔹 **JavaScript** (Lógica de lado del cliente)
 
 #### 🗄️ Bases de Datos
-<img src="https://shields.io" />
+* 🔹 **SQL** (Diseño, consultas y gestión de bases de datos relacionales)
 
 #### 📊 Análisis de Datos & Office (Nivel Medio - Avanzado)
-<img src="https://shields.io" />
-
-* **Fórmulas y Funciones:** Dominio de lógica condicional compleja, `BUSCARV` y `BUSCARX`.
-* **Visualización:** Creación y diseño de tablas dinámicas, gráficos dinámicos y reportes ejecutivos.
+  * 🔹 **Microsoft Excel Avanzado**
+  * 📈 *Fórmulas y Funciones:* Dominio de lógica condicional compleja, `BUSCARV` y `BUSCARX`.
+  * 📈 *Visualización:* Creación y diseño de tablas dinámicas, gráficos dinámicos y reportes ejecutivos.
 
 
 ### 📬 Conéctate conmigo
