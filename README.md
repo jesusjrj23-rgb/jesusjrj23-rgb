@@ -39,5 +39,5 @@ Egresado de la **Licenciatura en Ciencias de la Computación (BUAP)** con el 100
 Si eres reclutador de la Feria del Empleo o te interesa mi perfil para tu equipo tecnológico en Puebla, no dudes en contactarme:
 
 * 📧 **Correo:** [jesusjrj23@gmail.com](mailto:jesusjrj23@gmail.com)
-* 2218594609
+* tel: 2218594609
 * 📍 **Ubicación:** Puebla, México
